@@ -23,8 +23,17 @@
 
 ### Notas Adicionais
 
-Diagrama da Arquitetura Inicial do Sistema:
+Diagramas para a arquitetura inicial do sitema e para a arquitetura com o SIP Server para efetuar as chamadas.
 
-![Arquitetura Inicial](imgs/arch_init.png)
+<figure>
+  <img src="imgs/arch_v1.png" alt="Arquitetura Inicial">
+  <figcaption>Figura 1: Arquitetura Inicial do Sistema</figcaption>
+</figure>
 
-### Refrências
+<figure>
+  <img src="imgs/arch_v2.png" alt="Arquitetura com o SIP Server">
+  <figcaption>Figura 2: Arquitetura com o SIP Server para efetuar as chamadas</figcaption>
+</figure>
+
+
+### Referências
