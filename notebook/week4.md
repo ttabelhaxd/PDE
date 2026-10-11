@@ -23,7 +23,7 @@
 
 ### Notas Adicionais
 
-A leitura permitiu identificar uma arquitetura de referência para CATI automatizado baseada em Session Initiation Protocol (SIP), Answer-Seizure Ratio (ASR) e skip logic. Os estudos analisados mostram também que Computer-Assisted Telephone Interviewing (CATI), Interactive Voice Response (IVR) e web apresentam diferenças na taxa de resposta, conclusão e qualidade dos dados.
+A leitura permitiu identificar uma arquitetura de referência para CATI automatizado baseada em Session Initiation Protocol (SIP), Automatic Speech Recognition (ASR) e skip logic. Os estudos analisados mostram também que Computer-Assisted Telephone Interviewing (CATI), Interactive Voice Response (IVR) e web apresentam diferenças na taxa de resposta, conclusão e qualidade dos dados.
 
 ### Referências
 
