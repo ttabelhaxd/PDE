@@ -10,16 +10,18 @@
 | **ID** | **DESCRIÇÃO**                                        | **ESTADO** |
 | ------ | ---------------------------------------------------- | ---------- |
 | 7      | Criar um diagrama com a arquitetura inicial          | ✅         |
-| 8      | Investigar sobre tecnicas de entrevista por telefone | ⏳         |
-| 9      | Investigar sobre sistemas CATI                       | ⏳         |
-| 10     | Criar um repositorio com projeto inicial             | ⏳         |
+| 8      | Investigar sobre tecnicas de entrevista por telefone | ✅         |
+| 9      | Investigar sobre sistemas CATI                       | ✅         |
 
 
 ### Tarefas a Realizar
 
 | **ID** | **DESCRIÇÃO**                                        | **ESTADO** |
 | ------ | ---------------------------------------------------- | ---------- |
-| 11     |          | ⏳         |
+| 10     |  Criar um repositorio com projeto inicial            | ⏳         |
+| 11     |  Leitura do artigo Automatic Telephone Interview Survey System           | ⏳         |
+| 12     |  Leitura do artigo Social Desirability Bias in CATI, IVR, and Web Surveys: The Effects of Mode and Question Sensitivity           | ⏳         |
+| 13     |  Leitura do artigo Response Rate and Measurement Differences in Mixed-Mode Surveys Using Mail, Telephone, Interactive Voice Response (IVR) and the Internet           | ⏳         |
 
 ### Notas Adicionais
 
@@ -35,5 +37,3 @@ Diagramas para a arquitetura inicial do sitema e para a arquitetura com o SIP Se
   <figcaption>Figura 2: Arquitetura com o SIP Server para efetuar as chamadas</figcaption>
 </figure>
 
-
-### Referências
