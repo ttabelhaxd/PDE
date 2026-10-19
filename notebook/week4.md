@@ -9,7 +9,7 @@
 
 | **ID** | **DESCRIÇÃO**                                        | **ESTADO** |
 | ------ | ---------------------------------------------------- | ---------- |
-| 10     |  Criar um repositorio com projeto inicial            | ⏳         |
+| 10     |  Criar um repositorio com projeto inicial            | ✅         |
 | 11     |  Leitura do artigo Automatic Telephone Interview Survey System           | ✅         |
 | 12     |  Leitura do artigo Social Desirability Bias in CATI, IVR, and Web Surveys: The Effects of Mode and Question Sensitivity           | ✅         |
 | 13     |  Leitura do artigo Response Rate and Measurement Differences in Mixed-Mode Surveys Using Mail, Telephone, Interactive Voice Response (IVR) and the Internet           | ✅         |
@@ -19,7 +19,11 @@
 | **ID** | **DESCRIÇÃO**                                        | **ESTADO** |
 | ------ | ---------------------------------------------------- | ---------- |
 | 14      | Selecionar e analisar artigos sobre serviços de voz programáveis, ASR/TTS e IA conversacional aplicada a entrevistas telefónicas                       |   ⏳       |
-| 15      |                       |   ⏳       |
+| 15      | Ler pelo menos 10 artigos                     |   ⏳       |
+| 16      | Preparar a apresentação do Sprint 1                     |   ⏳       |
+| 17      | Investigar a API do WhatsApp                     |   ⏳       |
+
+
 
 ### Notas Adicionais
 
