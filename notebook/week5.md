@@ -18,7 +18,10 @@
 
 | **ID** | **DESCRIÇÃO**                                                                           | **ESTADO** |
 | ------ | --------------------------------------------------------------------------------------- | ---------- |
-| 18      |                                  | ⏳         |
+| 18     | Explorar sistemas de estudo de mercado e tecnologias                                    | ⏳         |
+| 19     | Criação de um repositório para um Proof of Concept                                      | ⏳         |
+| 20     | Explorar tecnologias para incorporar em sistemas de voz                                 | ⏳         |
+| 21     | Começar a escrita do estado da arte                                                     | ⏳         |
 
 ### Notas Adicionais
 
