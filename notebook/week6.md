@@ -1,4 +1,4 @@
-# Semana 5 - 20/10/2026 - 27/10/2026
+# Semana 6 - 20/10/2026 - 27/10/2026
 
 # Notebook - Abel Teixeira 113655
 
