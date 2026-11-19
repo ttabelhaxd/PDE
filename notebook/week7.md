@@ -19,10 +19,10 @@
 
 | **ID** | **DESCRIÇÃO**                                                                           | **ESTADO** |
 | ------ | --------------------------------------------------------------------------------------- | ---------- |
-| 27     |                | ⏳         |
+| 27     | Continuar a escrita do estado da arte                                                   | ⏳         |
+| 28     | Escrita da introdução da dissertação                                                    | ⏳         |
+| 29     | Pesquisa sobre produtos no mercado                                                      | ⏳         |
 
 ### Notas Adicionais
 
-Foi explorado o funcionamento de sistemas de estudo de mercado e tecnologias relevantes para entrevistas automatizadas, com foco no fluxo do questionário, gestão das respostas e das possíveis componentes de voz. Com base nesta análise, foi criado um repositório para o desenvolvimento do Proof of Concept, que começará por uma entrevista conduzida por texto.
-
-Foi iniciada a exploração de tecnologias para sistemas de voz, incluindo reconhecimento e síntese de fala e abordagens de IA para interpretação de respostas e gestão do diálogo. Foi também iniciada a escrita do estado da arte, organizando a literatura em torno de sistemas CATI/IVR, interfaces conversacionais, IA e qualidade dos dados recolhidos.
+Foi continuado o desenvolvimento e a experimentação de soluções para o Proof of Concept, com foco numa entrevista conduzida por texto. Foram também explorados repositórios com frameworks de IA para reconhecimento e síntese de fala, tendo em vista a futura integração de componentes de voz. Foi continuada a escrita do estado da arte, realizada leitura de artigos e preparada a apresentação do Sprint 2.
